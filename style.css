@@ -246,9 +246,9 @@ color: #6851FF;
 /* pastel backgrounds */
 .pink   { background: #FFDCE6; }
 .blue   { background: #D7EEFF; }
-.yellow { background: #FFF7C6; }
-.orange { background: #FFE0C2; }
-.purple { background: #F0E6FF; }
+.yellow { background: #fed8ab; }
+.orange { background: #ead5ff; }
+.purple { background: #fef18b; }
 
 /* purple tall card specifics */
 .purple {
